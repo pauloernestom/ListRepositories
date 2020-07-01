@@ -1,4 +1,4 @@
-# gamagit
+# RepositoriesList
 Projeto desenvolvido durante as aulas de React do Gama Experience, da Gama Academy.
 
 ## A aplicação
